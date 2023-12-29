@@ -2,6 +2,9 @@
 
 Esta página web interativa foi desenvolvida para buscar e exibir informações de usuários do GitHub, incluindo seus repositórios. Utilizando JavaScript modularizado, a aplicação realiza chamadas à API do GitHub para obter dados do usuário e de seus repositórios.
 
+![image](https://github.com/Jeanpk12/GitSearch/assets/122842874/47a01cb3-1527-485e-93f1-b7cc6b725765)
+
+
 ## Estrutura de Arquivos
 
 - **index.js:** Contém a lógica principal da aplicação. Importa funções para buscar informações de usuário e repositórios, manipula eventos de clique e tecla, e atualiza a interface do usuário dinamicamente com os dados obtidos.
